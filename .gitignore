@@ -1,0 +1,9 @@
+node_modules
+tmp
+dest
+log
+upload
+npm-debug.log
+.idea
+.DS_Store
+src/wechat/api/media
